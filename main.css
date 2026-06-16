@@ -13,7 +13,7 @@ body {
   background: #4f913d;
   padding: 0;
   margin: 0;
-  align-items: center;
+  align-items: flex-start;
 }
 p {
   font-size: 1.5em;
@@ -49,7 +49,7 @@ footer:focus, footer:hover, footer:action {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 0;
   margin: 1em;
   max-width: 1280px;
