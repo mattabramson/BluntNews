@@ -12,12 +12,12 @@ body {
   color: #FFF;
   background: #4f913d;
   padding: 0;
-  margin: 0;
+  margin: 10;
   align-items: flex-start;
 }
 p {
   font-size: 1.5em;
-  text-align: center;
+  text-align: flex-start;
 }
 header {
   display: flex;
