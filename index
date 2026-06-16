@@ -15,53 +15,10 @@
     </div>
   </header>
 
-  <p>Jam with the drum loop and instruments:</p>
+  <p>Tagline</p>
 
+  <p>Article</p>  
   
-  <p>Sounds by Patrick Toobin and Daniel Denison.<br><br>Icon artwork from:</p>
-  <a href="https://www.vecteezy.com/free-vector/rock" >Rock Vectors by Vecteezy</a>
-  <a href="https://www.vecteezy.com/free-vector/instruments">Instruments Vectors by Vecteezy</a>
-  <a href="https://www.vecteezy.com/free-vector/guitar">Guitar Vectors by Vecteezy</a>
-
-  <audio
-    src="https://recordtime.net/sounds/bass1.mp3" type="audio/mpeg" id="synthOne">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/bass2.mp3" type="audio/mpeg" id="synthTwo">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/guitar1.mp3" type="audio/mpeg" id="guitarOne">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/guitar2.mp3" type="audio/mpeg" id="guitarTwo">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/guitar3.mp3" type="audio/mpeg" id="guitarThree">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/riff.mp3" type="audio/mpeg" id="riff">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/woo.mp3" type="audio/mpeg" id="woo">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/vocals1.mp3" type="audio/mpeg" id="vocalsOne">
-  </audio>
-
-  <audio
-    src="https://recordtime.net/sounds/vocals2.mp3" type="audio/mpeg" id="vocalsTwo">
-  </audio>
-
-  <audio loop
-   src="https://recordtime.net/sounds/beat2.mp3" type="audio/mpeg" id="drum">
-  </audio>
 
   <footer>
     <a href="https://podcasts.apple.com/us/podcast/record-time/id1505445706" alt="Apple Podcasts link">Apple Podcasts  </a>
